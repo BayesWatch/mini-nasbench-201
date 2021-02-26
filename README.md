@@ -7,7 +7,7 @@ This is a simple way to generate a small file which contains only the informatio
 
 On `wolfburn`, loading `minibench` took 0.0062 seconds, where NAS-Bench-201 took 61.0529 seconds.
 
-## Example usage
+## Example usage
 
 First, copy the `minibench-arch-cell-accs.pd` file into your repository. 
 
