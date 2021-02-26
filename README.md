@@ -21,3 +21,8 @@ cifar10_val = minibench.iloc[42]['cifar10-val']
 ```
 
 You can also `iloc` with a list of indices. The rows correspond to the `NAS-Bench-201` architecture IDs. 
+
+The default column names are:
+```
+columns=['arch','cellstr','cifar10-test','cifar10-val', 'cifar100-test', 'cifar100-val', 'imagenet-test', 'imagenet-val']
+```
